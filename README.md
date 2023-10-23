@@ -10,23 +10,8 @@
 
 - 📫 How to reach me **alihanbatmazoglu@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alihan batmazoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alihan batmazoğlu" height="30" width="40" /></a>
-<a href="https://instagram.com/alibatmazoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibatmazoglu" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h1 align="center">Hi 👋, I'm Ali Han Batmazoğlu</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Pyhton**
-
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AliHanBtmz](https://github.com/AliHanBtmz)
-
-- 📫 How to reach me **alihanbatmazoglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
