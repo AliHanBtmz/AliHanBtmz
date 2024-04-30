@@ -1,4 +1,4 @@
-[![MasterHead](https://penrose.law/wp-content/uploads/Code.jpg)
+![MasterHead](https://penrose.law/wp-content/uploads/Code.jpg)
 <h1 align="center">Hi 👋, I'm Ali Han Batmazoğlu</h1>
 <h3 align="center">A passionate Computer Engineering Student from Turkey</h3>
 
